@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/search-gui-hosting/static/js/main.ff1f9567.js",
+    "static/js/787.8e353c4b.chunk.js": "/search-gui-hosting/static/js/787.8e353c4b.chunk.js",
+    "index.html": "/search-gui-hosting/index.html",
+    "main.ff1f9567.js.map": "/search-gui-hosting/static/js/main.ff1f9567.js.map",
+    "787.8e353c4b.chunk.js.map": "/search-gui-hosting/static/js/787.8e353c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff1f9567.js"
+  ]
+}
