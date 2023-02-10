@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/search-gui-hosting/static/js/main.1c4f1c8f.js",
-    "static/js/787.8e353c4b.chunk.js": "/search-gui-hosting/static/js/787.8e353c4b.chunk.js",
-    "index.html": "/search-gui-hosting/index.html",
-    "main.1c4f1c8f.js.map": "/search-gui-hosting/static/js/main.1c4f1c8f.js.map",
-    "787.8e353c4b.chunk.js.map": "/search-gui-hosting/static/js/787.8e353c4b.chunk.js.map"
+    "main.js": "https://yetanotherjobboard.github.io/search-gui-hosting/static/js/main.26576ab4.js",
+    "static/js/787.8e353c4b.chunk.js": "https://yetanotherjobboard.github.io/search-gui-hosting/static/js/787.8e353c4b.chunk.js",
+    "index.html": "https://yetanotherjobboard.github.io/search-gui-hosting/index.html",
+    "main.26576ab4.js.map": "https://yetanotherjobboard.github.io/search-gui-hosting/static/js/main.26576ab4.js.map",
+    "787.8e353c4b.chunk.js.map": "https://yetanotherjobboard.github.io/search-gui-hosting/static/js/787.8e353c4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1c4f1c8f.js"
+    "static/js/main.26576ab4.js"
   ]
 }
